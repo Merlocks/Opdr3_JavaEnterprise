@@ -14,6 +14,6 @@ public class AppServletContextListener implements ServletContextListener {
 
     @Override
     public void contextDestroyed(ServletContextEvent servletContextEvent) {
-        // TODO Cleanup code
+
     }
 }
